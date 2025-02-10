@@ -10,7 +10,7 @@ from tensorflow.keras.callbacks import EarlyStopping
 
 # Define the directories for each category
 categories = ['buisness', 'entertainment', 'Politics', 'Sport', 'tech']
-image_dir = 'data/img/bina-img/bina-img'
+image_dir = 'images'
 
 # Prepare image data
 image_data = []

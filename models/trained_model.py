@@ -3,7 +3,7 @@ from datasets import Dataset
 import pandas as pd
 
 # Load dataset
-df = pd.read_csv("translated_file_offline_fixed.csv")  # Replace with the correct path
+df = pd.read_csv("texts.csv")  # Replace with the correct path
 df = df[['content', 'category']]  # Use relevant columns
 df['label'] = df['category'].astype('category').cat.codes  # Encode labels
 
