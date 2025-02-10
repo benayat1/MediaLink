@@ -1,0 +1,627 @@
+[
+    {
+        "id": "0ec8ba5d-aa39-4b83-a95c-3445d8a70a8a",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text001.txt",
+        "content": "ב-11 במרץ - יום הסיוע לקומיקס, אמר טוני בלייר, פסגת ג'י-8 בגלנגלס בפרת'שייר - יו\"ר ראש הממשלה - ישתמש בדו\"ח כבסיס לשיחות על אפריקה.",
+        "tags": [
+            {
+                "text": "טוני בלייר",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "פסגה",
+                "color": "gray"
+            },
+            {
+                "text": "11 במרץ",
+                "color": "#D4B3F7"
+            },
+            {
+                "text": "פוליטיקה",
+                "color": "#6290C3"
+            },
+            {
+                "text": "אפריקה",
+                "color": "#FFD1A4"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "טוני בלייר",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "פסגה",
+                "type": "ORG",
+                "color": "gray"
+            },
+            {
+                "entity": "אפריקה",
+                "type": "GPE",
+                "color": "gray"
+            }
+        ],
+        "classification": "פוליטיקה",
+        "confidence": 0.8684608936309814,
+        "path": "./texts\\text001.txt",
+        "dateAnalyzed": "2025-02-01T22:54:18.646235"
+    },
+    {
+        "id": "f5adc07c-75e6-431b-a301-36825ffde06c",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text002.txt",
+        "content": "במעבדת המחקר של דבלין, מעבדות מדיה אירופה, היא לסגור את מרכז המחקר, שהתחיל על ידי הממשלה האירית ומכון מסצ'וסטס, היה מקום חם לטכנולוגיות.",
+        "tags": [
+            {
+                "text": "דבלין",
+                "color": "gray"
+            },
+            {
+                "text": "מדיה",
+                "color": "gray"
+            },
+            {
+                "text": "הממשלה האירית",
+                "color": "gray"
+            },
+            {
+                "text": "אירופה",
+                "color": "#FFD1A4"
+            },
+            {
+                "text": "טכנולוגיה",
+                "color": "#C2E7DA"
+            },
+            {
+                "text": "מסצ'וסטס",
+                "color": "#FFD1A4"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "דבלין",
+                "type": "GPE",
+                "color": "gray"
+            },
+            {
+                "entity": "מדיה",
+                "type": "ORG",
+                "color": "gray"
+            },
+            {
+                "entity": "ממשלה",
+                "type": "ORG",
+                "color": "gray"
+            },
+            {
+                "entity": "מכון",
+                "type": "ORG",
+                "color": "gray"
+            }
+        ],
+        "classification": "טכנולוגיה",
+        "confidence": 0.6075755953788757,
+        "path": "./texts\\text002.txt",
+        "dateAnalyzed": "2025-02-01T22:53:59.663346"
+    },
+    {
+        "id": "5079b776-3175-455c-b1d0-74b42dc3ae86",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text003.txt",
+        "content": "סר אלטון ג'ון הופיע בקונצרט מיוחד בפריז כדי לגייס כסף לקורבנות הצונאמי האסיאתי. הזמר הבריטי שיחק עם קהל של 2,700 איש ביום ראשון בבית האופרה של הבירה הצרפתית. הקונצרט היה גם חלק מניסיון להביא מגוון רחב יותר של אירועים למקום המפורסם.",
+        "tags": [
+            {
+                "text": "אלטון ג'ון",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "פריז",
+                "color": "#FFD1A4"
+            },
+            {
+                "text": "קונצרט",
+                "color": "gray"
+            },
+            {
+                "text": "בידור",
+                "color": "#F1FFE7"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "אלטון",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "פריז",
+                "type": "GPE",
+                "color": "gray"
+            },
+            {
+                "entity": "בית",
+                "type": "FAC",
+                "color": "gray"
+            },
+            {
+                "entity": "בירה",
+                "type": "LOC",
+                "color": "gray"
+            }
+        ],
+        "classification": "בידור",
+        "confidence": 0.9526589512825012,
+        "path": "./texts\\text003.txt",
+        "dateAnalyzed": "2025-02-01T22:53:49.913143"
+    },
+    {
+        "id": "604d5f89-e65e-4369-90d9-033956ce0148",
+        "type": "image",
+        "fileType": "jpeg",
+        "title": "image001.jpeg",
+        "content": "image001.jpeg",
+        "tags": [
+            {
+                "text": "בידור",
+                "color": "#F1FFE7"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "בידור",
+                "type": "classification",
+                "color": "#F1FFE7"
+            }
+        ],
+        "classification": "בידור",
+        "confidence": 0.9646902680397034,
+        "path": "./../backend/./images\\image001.jpeg",
+        "dateAnalyzed": "2025-01-26T12:36:07.228750"
+    },
+    {
+        "id": "5b81d370-f375-4569-a398-18736d6446d2",
+        "type": "image",
+        "fileType": "jpg",
+        "title": "image002.jpg",
+        "content": "image002.jpg",
+        "tags": [
+            {
+                "text": "ספורט",
+                "color": "#1A1B41"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "ספורט",
+                "type": "classification",
+                "color": "#1A1B41"
+            }
+        ],
+        "classification": "ספורט",
+        "confidence": 0.9646902680397034,
+        "path": "./../backend/./images\\image002.jpg",
+        "dateAnalyzed": "2025-01-30T21:00:37.363580"
+    },
+    {
+        "id": "588268af-e41f-48ec-8ed4-e703dba23695",
+        "type": "image",
+        "fileType": "jpg",
+        "title": "image003.jpg",
+        "content": "image003.jpg",
+        "tags": [
+            {
+                "text": "פוליטיקה",
+                "color": "#6290C3"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "פוליטיקה",
+                "type": "classification",
+                "color": "#6290C3"
+            }
+        ],
+        "classification": "פוליטיקה",
+        "confidence": 0.9646902680397034,
+        "path": "./../backend/./images\\image003.jpg",
+        "dateAnalyzed": "2025-02-01T22:33:08.047244"
+    },
+    {
+        "id": "4ff5c495-835d-486c-bea2-9d31dc43c77c",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text004.txt",
+        "content": "מרוץ האוסקר נכנס לשלבים האחרונים כמועד סופי לבוחרים לבחור את הזוכים, לבוחרי האקדמיה של 5,808 היה עד יום שלישי אחר הצהריים להחזיר את פתקי ההצבעה שלהם - כל הגשה מאוחרת לא תהיה כלולה בספירה. חמשת הימים הבאים יסופרו את צורות ההצבעה ויכינו את מעטפות המנצחים. השחקן הטוב ביותר לאונרדו דיקפריו",
+        "tags": [
+            {
+                "text": "לאונרדו דיקפריו",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "מרוץ האוסקר",
+                "color": "gray"
+            },
+            {
+                "text": "אקדמיה",
+                "color": "gray"
+            },
+            {
+                "text": "בידור",
+                "color": "#F1FFE7"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "לאונרדו",
+                "type": "PER",
+                "color": "#A7C7E7"
+            }
+        ],
+        "classification": "בידור",
+        "confidence": 0.9506881833076477,
+        "path": "./texts\\text004.txt",
+        "dateAnalyzed": "2025-02-01T22:53:52.947762"
+    },
+    {
+        "id": "24209c9a-61c4-4941-9c95-d9227f1c7de9",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text005.txt",
+        "content": "אלבומם של ה\"בנד אייד 20\" החזיק במקום הראשון במצעד בשבוע השני, ומחזק את סיכוייו להיות הסינגל הגדול ביותר של חג המולד. האם הם יודעים שזה חג המולד, כולל האמנים של כריס מרטין וג'מליה,",
+        "tags": [
+            {
+                "text": "בנד אייר",
+                "color": "gray"
+            },
+            {
+                "text": "כריס מרטין",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "ג'מליה",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "בידור",
+                "color": "#F1FFE7"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "בנד",
+                "type": "ORG",
+                "color": "gray"
+            },
+            {
+                "entity": "כריס",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "מגי",
+                "type": "PER",
+                "color": "#A7C7E7"
+            }
+        ],
+        "classification": "בידור",
+        "confidence": 0.9546064734458923,
+        "path": "./texts\\text005.txt",
+        "dateAnalyzed": "2025-02-01T22:53:56.363092"
+    },
+    {
+        "id": "f137fe9c-b7ab-46e2-aa13-ed8c62db1d20",
+        "type": "audio",
+        "fileType": "wav",
+        "title": "record001.wav",
+        "content": "עזריאל.\nמה נשמע?\nאיך עבר היום?\nמה איתך ברוך השם אחי לומדים כל יום לוח?\nנו?\nאז?\nמה?\nמה עם הכסף שינוח יהיה כסף?",
+        "tags": [
+            {
+                "text": "עזריאל",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "לימודים",
+                "color": "gray"
+            },
+            {
+                "text": "כסף",
+                "color": "#FFD1A4"
+            },
+            {
+                "text": "בידור",
+                "color": "#F1FFE7"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "עזריאל",
+                "type": "PER",
+                "color": "#A7C7E7"
+            }
+        ],
+        "classification": "בידור",
+        "confidence": 0.8594746351242065,
+        "path": "./../backend/./records\\record001.wav",
+        "dateAnalyzed": "2025-02-02T02:11:30.912663"
+    },
+    {
+        "id": "c9a77622-eaa4-4e3f-ab93-fee41a8d9c84",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text006.txt",
+        "content": "אלון קרלוס ויה (בגרמנית: Karlos Voy) היה אחד מהאלופים הבולטים ביותר בעולם, אך לאחר מכן הוא ניצח את ג'ורג'ו ג'ורג'ו (Allibre Gibjo) ב-6.",
+        "tags": [
+            {
+                "text": "אלון",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "אלוף העולם",
+                "color": "gray"
+            },
+            {
+                "text": "ג'ורג'ו",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "ספורט",
+                "color": "#1A1B41"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "אלון",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "kar",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "ג'ורג'",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "all",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "#",
+                "type": "PER",
+                "color": "#A7C7E7"
+            }
+        ],
+        "classification": "ספורט",
+        "confidence": 0.5008731484413147,
+        "path": "./texts\\text006.txt",
+        "dateAnalyzed": "2025-02-01T22:54:03.563154"
+    },
+    {
+        "id": "0081d4c7-9e58-464d-aca9-7b3d528ad705",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text007.txt",
+        "content": "רווחים של 3 חודשים עד דצמבר, מתוך 639 דולר, המשרד, שהוא כעת אחד המשקיעים הגדולים ביותר בגוגל, הרוויח ממכירות של חיבורי אינטרנט מהירים ומכירות גבוהות יותר.",
+        "tags": [
+            {
+                "text": "גוגל",
+                "color": "gray"
+            },
+            {
+                "text": "דצמבר",
+                "color": "#D4B3F7"
+            },
+            {
+                "text": "אינטרנט",
+                "color": "gray"
+            },
+            {
+                "text": "עסקים",
+                "color": "#BAFF29"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "גוגל",
+                "type": "ORG",
+                "color": "gray"
+            }
+        ],
+        "classification": "עסקים",
+        "confidence": 0.8838946223258972,
+        "path": "./texts\\text007.txt",
+        "dateAnalyzed": "2025-02-01T22:54:05.998184"
+    },
+    {
+        "id": "88c75601-2f9f-4d39-a8d1-434e4753d1fb",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text008.txt",
+        "content": "מספרם של סוחרי הסמים השוויצריים, 5.65bn €ros ($7.4bn; £3.9bn) של רכישות כדי להפוך את יחידת Sandoz שלה למפיק הסמים הגדול ביותר בעולם.",
+        "tags": [
+            {
+                "text": "Sandoz",
+                "color": "gray"
+            },
+            {
+                "text": "שוויץ",
+                "color": "#FFD1A4"
+            },
+            {
+                "text": "סמים",
+                "color": "red"
+            },
+            {
+                "text": "עסקים",
+                "color": "#BAFF29"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "sand",
+                "type": "ORG",
+                "color": "gray"
+            },
+            {
+                "entity": "#",
+                "type": "ORG",
+                "color": "gray"
+            }
+        ],
+        "classification": "עסקים",
+        "confidence": 0.931358814239502,
+        "path": "./texts\\text008.txt",
+        "dateAnalyzed": "2025-02-01T22:54:08.897737"
+    },
+    {
+        "id": "37368466-77a1-488f-b69c-ae671625e500",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text009.txt",
+        "content": "הטורי רצה שסעיף שקיעה יוכנס לאנטי-טרוריזם ביל שהיה מכריח את השרים לחזור אליו בנובמבר, מר בלייר אמר שהחוק, אשר מביא למעצר בית לחשודים בטרור, היה כבר מגביל את ההגנה. הטורים אומרים שהם יצביעו נגד זה, אלא אם כן הם ירצו לשנות את הצעת החוק.",
+        "tags": [
+            {
+                "text": "טרור",
+                "color": "red"
+            },
+            {
+                "text": "נובמבר",
+                "color": "#D4B3F7"
+            },
+            {
+                "text": "חוק",
+                "color": "gray"
+            },
+            {
+                "text": "פוליטיקה",
+                "color": "#6290C3"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "טור",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "#",
+                "type": "PER",
+                "color": "#A7C7E7"
+            },
+            {
+                "entity": "בלייר",
+                "type": "PER",
+                "color": "#A7C7E7"
+            }
+        ],
+        "classification": "פוליטיקה",
+        "confidence": 0.919725239276886,
+        "path": "./texts\\text009.txt",
+        "dateAnalyzed": "2025-02-01T22:54:12.330632"
+    },
+    {
+        "id": "fb7ea1bd-605c-4d73-90a7-420965380da0",
+        "type": "image",
+        "fileType": "jpeg",
+        "title": "image004.jpeg",
+        "content": "image004.jpeg",
+        "tags": [
+            {
+                "text": "פוליטיקה",
+                "color": "#F5A3A3"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "פוליטיקה",
+                "type": "classification",
+                "color": "#F5A3A3"
+            }
+        ],
+        "classification": "פוליטיקה",
+        "confidence": 0.9646902680397034,
+        "path": "./../backend/./images\\image004.jpeg",
+        "dateAnalyzed": "2025-02-02T15:48:39.407236"
+    },
+    {
+        "id": "6d560859-78f5-4283-aefa-e1ceb57e7faa",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text010.txt",
+        "content": "ישנן מספר ציפיות לא מציאותיות של מדעי הזיהוי הפלילי הודות להצלחת תוכניות הטלוויזיה, מומחים אמיתיים אומרים. ראיות שהוגשו למעבדות מז\"פ נורו כתוצאה מהתוכניות, בזמן שלרבים מהם יש תיקים גדולים, חוקרי המדע טוענים.",
+        "tags": [
+            {
+                "text": "בידור",
+                "color": "#F1FFE7"
+            },
+            {
+                "text": "טלוויזיה",
+                "color": "gray"
+            },
+            {
+                "text": "מז\"פ",
+                "color": "gray"
+            },
+            {
+                "text": "חוקרים",
+                "color": "#A7C7E7"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "בידור",
+                "type": "classification",
+                "color": "#F5A3A3"
+            }
+        ],
+        "classification": "בידור",
+        "confidence": 0.917232545342,
+        "path": "./texts\\text010.txt",
+        "dateAnalyzed": "2025-02-02T15:48:43.513136"
+    },
+    {
+        "id": "619937fc-5ea5-47f6-a5e4-b3eab2e851e5",
+        "type": "text",
+        "fileType": "txt",
+        "title": "text011.txt",
+        "content": "בעליה של חברת הנפט הרוסית המאולתרת יוקוס הם כדי לבקש מהקונה של יחידת ההפקה הקודמת שלה לשלם בחזרה הלוואה של 900 מ\"מ (479 מיליון ליש\"ט). רוזנפט בבעלות המדינה קנה את יחידת היוגנסק עבור 9.3bn במכירה שנכפתה על ידי רוסיה כדי ליישב תביעה על מס נגד יוקוס.",
+        "tags": [
+            {
+                "text": "עסקים",
+                "color": "#BAFF29"
+            },
+            {
+                "text": "נפט",
+                "color": "gray"
+            },
+            {
+                "text": "ליש\"ט",
+                "color": "#A7C7E7"
+            },
+            {
+                "text": "רוסיה",
+                "color": "#FFD1A4"
+            }
+        ],
+        "entities": [
+            {
+                "entity": "עסקים",
+                "type": "classification",
+                "color": "#F5A3A3"
+            }
+        ],
+        "classification": "עסקים",
+        "confidence": 0.92428349248,
+        "path": "./texts\\text011.txt",
+        "dateAnalyzed": "2025-02-02T15:48:47.588929"
+    }
+]
